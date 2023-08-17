@@ -1,0 +1,1 @@
+console.log("Aqui podemos ver no navegador, através do console, que o arquivo foi linkado e esta funcionando")
